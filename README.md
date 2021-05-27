@@ -5,13 +5,19 @@ The Zalman M. Schachter-Shalomi Collection highlights the activities and interdi
 ### Identifier
 Identifier example: narv_zalman_132_2_delawareValleyForum_a.mp4
 ### Title
-
+Title of the item.
 ### Description
+Brief note describing what the recording is about.
 ### Subject
+Common subject headings include: [Judaism](http://id.worldcat.org/fast/984280), [Spirituality](http://id.worldcat.org/fast/1130186), [Religion](http://id.worldcat.org/fast/1093763), [Older people]( http://id.worldcat.org/fast/1199093)
 ### Type
+[Moving image](https://id.loc.gov/vocabulary/resourceTypes/mov.html) and [Sound](https://id.loc.gov/vocabulary/resourceTypes/aud.html)
 ### Source
+Rabbi Zalman Schachter-Shalomi Collection
 ### Relation
+Special Collections, Archives & Preservation, University of Colorado Boulder
 ### Coverage
+
 ### Creator
 ### Publisher
 ### Contributor
