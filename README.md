@@ -25,9 +25,13 @@ Source from which the item was derived (if part of a greater whole): Rabbi Zalma
 ### Relation
 The institution or repository that holds the resource or where it is available: Special Collections, Archives & Preservation, University of Colorado Boulder
 ### Coverage
-Geographic location(s) relevant to the item. Some coverage terms used in the collection include: Boulder, Colorado; Phoenix, Arizona; and Philadelphia, Pennsylvania
+Geographic location(s) relevant to the item. 
+
+Some coverage terms used in the collection include: Boulder, Colorado; Phoenix, Arizona; and Philadelphia, Pennsylvania
 ### Creator
-Individual(s) or corporate entities that created or are associated with the work. Common names seen in the collection include: [Schachter-Shalomi, Zalman, 1924-2014](http://id.worldcat.org/fast/102574) 
+Individual(s) or corporate entities that created or are associated with the work. 
+
+Common names seen in the collection include: [Schachter-Shalomi, Zalman, 1924-2014](http://id.worldcat.org/fast/102574) 
 ### Publisher
 The name of the entity that published, printed, distributed, released, issued, or produced the resource.
 
@@ -43,7 +47,9 @@ Statement in collection: This Item is protected by copyright and/or related righ
 
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 ### Date
-The date of creation of the resource. Date ranges include: Dates range from the 1980s and through the 1990s.
+The date of creation of the resource. 
+
+Date ranges include: Dates range from the 1980s and through the 1990s.
 ### Format Extent
 The size or scale of the work. In this case the time duration of the recording.
 ### Format Medium
@@ -53,7 +59,7 @@ Media type(s) in this collection: video/mp4 and audio/mp3
 ### Language
 Contains the textual or coded form for the language of the content of the resource. 
 
-Language(s) seen in this collection include: English, Hebrew, Yiddish, and German
+Languages seen in this collection include: English, Hebrew, Yiddish, and German
 ## Resources
 For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Zalman M. Schachter-Shalomi papers](https://archives.colorado.edu/repositories/2/resources/1661).
 
